@@ -8,8 +8,8 @@ tendo em vista que o objetivo principal é demonstrar o aprendizado adquirido du
 
 # Tabela de conteúdos 
 
-1. [Projetos](https://github.com/CaioBrainer/Hadoop_ecosystem_little_projects#projetos)
-   - [Job Map Reduce com Hadoop](https://github.com/CaioBrainer/Hadoop_ecosystem_little_projects#job_map_reduce_com_hadoop)
+1. [Projetos](https://github.com/CaioBrainer/hadoop_ecosystem_little_projects#projetos)
+   - [Job Map Reduce com Hadoop](https://github.com/CaioBrainer/hadoop_ecosystem_little_projects#job_map_reduce_com_hadoop)
 
 
 # Projetos
