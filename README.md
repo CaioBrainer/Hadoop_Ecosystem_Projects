@@ -1,4 +1,4 @@
-<h1>Pequenos projetos utilizando ferramentas do esossistema HADOOP</h1>
+<h1>Pequenos projetos utilizando ferramentas do ecossistema HADOOP</h1>
  
 
 
